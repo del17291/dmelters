@@ -1,0 +1,11 @@
+{
+  "name": "Lilou — Voice AI Interactive CV for Délia Melters",
+  "description": "Meet Lilou, an intelligent voice AI assistant representing Délia Melters for recruiters. Real-time Gemini Live voice conversation, multilingual Q&A, and interactive CV explorer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
